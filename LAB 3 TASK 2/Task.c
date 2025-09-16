@@ -18,7 +18,7 @@ int main() {
     float Subtotal = item1 + item2 + item3;
     printf("Subtotal: %.2f\n", Subtotal);
     float Tax = Subtotal * (17.0/100.0);
-    printf("Tax(17%): %.2f\n", Tax);
+    printf("Tax(17%%): %.2f\n", Tax);
 	printf("----------------------\n");
     float Grand_Total = Subtotal + Tax;
     printf("Grand Total = %.2f\n", Grand_Total);
