@@ -1,3 +1,4 @@
+//tast by shoaib
 #include<stdio.h>
 #include<string.h>
 
